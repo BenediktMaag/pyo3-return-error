@@ -10,4 +10,4 @@ crate-type = ["cdylib"]
 
 [dependencies]
 chrono = "0.4.41"
-pyo3 = { version = "0.24.0", features = ["chrono"] }
+pyo3 = { version = "0.25.0", features = ["chrono"] }
